@@ -1,0 +1,82 @@
+{
+    "metadata": [
+        [
+            19,
+            "SimulationMBMMediaResult",
+            "KBasePhenotypes.PhenotypeSimulationSet-3.0",
+            "2025-08-09T00:26:50+0000",
+            1,
+            "yu2",
+            225219,
+            "yu2:narrative_1754696133772",
+            "3df44f7911ce214232af57970a971146",
+            1250,
+            {
+                "Number phenotypes": "4"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copy_source_inaccessible": 0,
+            "created": "2025-08-09T00:26:48+0000",
+            "creator": "yu2",
+            "epoch": 1754699208958,
+            "extracted_ids": {},
+            "info": [
+                19,
+                "SimulationMBMMediaResult",
+                "KBasePhenotypes.PhenotypeSimulationSet-3.0",
+                "2025-08-09T00:26:50+0000",
+                1,
+                "yu2",
+                225219,
+                "yu2:narrative_1754696133772",
+                "3df44f7911ce214232af57970a971146",
+                1250,
+                {
+                    "Number phenotypes": "4"
+                }
+            ],
+            "orig_wsid": 225219,
+            "path": [
+                "225219/19/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "simulate_growth_on_phenotype_data",
+                    "method_params": [
+                        {
+                            "add_all_transporters": 0,
+                            "add_positive_transporters": 0,
+                            "custom_bound_list": [],
+                            "fbamodel_id": "225219/11/1",
+                            "feature_ko_list": "",
+                            "fit_phenotype_data": 0,
+                            "gapfill_phenotypes": 0,
+                            "media_supplement_list": "",
+                            "phenotypeset_id": "225219/17/1",
+                            "phenotypesim_output_id": "SimulationMBMMediaResult",
+                            "reaction_ko_list": "",
+                            "save_fluxes": 0,
+                            "target_reaction": "bio1",
+                            "workspace": "yu2:narrative_1754696133772"
+                        }
+                    ],
+                    "resolved_ws_objects": [],
+                    "service": "fba_tools",
+                    "subactions": []
+                }
+            ],
+            "refs": [
+                "225219/11/1",
+                "225219/17/1"
+            ]
+        }
+    ]
+}

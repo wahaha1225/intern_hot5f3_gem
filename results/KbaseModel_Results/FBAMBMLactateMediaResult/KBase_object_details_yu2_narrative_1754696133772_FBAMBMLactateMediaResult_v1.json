@@ -1,0 +1,118 @@
+{
+    "metadata": [
+        [
+            24,
+            "FBAMBMLactateMediaResult",
+            "KBaseFBA.FBA-13.2",
+            "2025-08-09T00:52:42+0000",
+            1,
+            "yu2",
+            225219,
+            "yu2:narrative_1754696133772",
+            "14daa8285021e3344df7c68d96501f89",
+            1073723,
+            {
+                "Combination deletions": "0",
+                "Maximized": "1",
+                "Media": "225219/5/1",
+                "Minimize reactions": "0",
+                "Model": "225219/11/1",
+                "Number additional compounds": "0",
+                "Number biomass objectives": "1",
+                "Number compound bounds": "0",
+                "Number compound variables": "115",
+                "Number constraints": "0",
+                "Number gene KO": "0",
+                "Number reaction KO": "0",
+                "Number reaction bounds": "0",
+                "Number reaction variables": "1340",
+                "Objective": "0.442355"
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copy_source_inaccessible": 0,
+            "created": "2025-08-09T00:52:41+0000",
+            "creator": "yu2",
+            "epoch": 1754700761512,
+            "extracted_ids": {},
+            "info": [
+                24,
+                "FBAMBMLactateMediaResult",
+                "KBaseFBA.FBA-13.2",
+                "2025-08-09T00:52:42+0000",
+                1,
+                "yu2",
+                225219,
+                "yu2:narrative_1754696133772",
+                "14daa8285021e3344df7c68d96501f89",
+                1073723,
+                {
+                    "Combination deletions": "0",
+                    "Maximized": "1",
+                    "Media": "225219/5/1",
+                    "Minimize reactions": "0",
+                    "Model": "225219/11/1",
+                    "Number additional compounds": "0",
+                    "Number biomass objectives": "1",
+                    "Number compound bounds": "0",
+                    "Number compound variables": "115",
+                    "Number constraints": "0",
+                    "Number gene KO": "0",
+                    "Number reaction KO": "0",
+                    "Number reaction bounds": "0",
+                    "Number reaction variables": "1340",
+                    "Objective": "0.442355"
+                }
+            ],
+            "orig_wsid": 225219,
+            "path": [
+                "225219/24/1"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "external_data": [],
+                    "input_ws_objects": [],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "run_flux_balance_analysis",
+                    "method_params": [
+                        {
+                            "activation_coefficient": 0.5,
+                            "custom_bound_list": [],
+                            "exp_threshold_margin": 0.1,
+                            "exp_threshold_percentile": 0.5,
+                            "expression_condition": "",
+                            "expseries_id": null,
+                            "fba_output_id": "FBAMBMLactateMediaResult",
+                            "fbamodel_id": "225219/11/1",
+                            "feature_ko_list": "",
+                            "fva": 1,
+                            "max_c_uptake": null,
+                            "max_n_uptake": null,
+                            "max_o_uptake": null,
+                            "max_p_uptake": null,
+                            "max_s_uptake": null,
+                            "media_id": "225219/5/1",
+                            "media_supplement_list": "",
+                            "minimize_flux": 1,
+                            "reaction_ko_list": "",
+                            "simulate_ko": 0,
+                            "target_reaction": "bio1",
+                            "workspace": "yu2:narrative_1754696133772"
+                        }
+                    ],
+                    "resolved_ws_objects": [],
+                    "service": "fba_tools",
+                    "subactions": []
+                }
+            ],
+            "refs": [
+                "225219/11/1",
+                "225219/5/1"
+            ]
+        }
+    ]
+}
