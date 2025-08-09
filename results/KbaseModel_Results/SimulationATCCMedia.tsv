@@ -1,0 +1,5 @@
+Growth condition	Gene KO	Media WS	Addtional compounds	Addtl compound bounds	Custom reaction bounds	Observed normal growth	Simulated growth	Simulated growth fraction	Gapfilled reaction count	Gapfilled reactions	Prediction class
+MinGlucoseATCCMedia	none	yu2:narrative_1754518239303	none			1	0.880073	1	0		CP
+MinLactateATCCMedia	none	yu2:narrative_1754518239303	none			1	0.371056	1	0		CP
+MinPyruvateATCCMedia	none	yu2:narrative_1754518239303	none			1	0.365189	1	0		CP
+ATCCMedia	none	yu2:narrative_1754518239303	none			0	0	0	0		CN
