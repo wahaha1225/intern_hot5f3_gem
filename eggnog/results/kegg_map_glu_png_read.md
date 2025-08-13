@@ -1,0 +1,3 @@
+This map is map00010 (Glycolysis/Gluconeogenesis).
+Green = KOs shared by both samples; red = unique to hot5f3; blue = unique to DG898. The lack of blue in your map indicates that DG898 has no unique enzymes in this pathway; most are shared with hot5f3 or missing.
+Visually: The glycolysis backbone runs from glucose → glucose-6P → fructose-6P → fructose-1,6-bisphosphate → glyceraldehyde-3P → 1,3-bisphosphoglycerate → 3-phosphoglycerate → 2-phosphoglycerate → PEP → pyruvate. Most key steps are colored green, indicating that both samples possess core enzymes of the "classical EM pathway."
