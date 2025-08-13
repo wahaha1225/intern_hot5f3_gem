@@ -1,0 +1,35 @@
+To install COMETS on a MacOS system, first unpack comets with:
+
+tar zxvf comets_linux.tar.gz
+
+in a directory of your choice. 
+
+This should create a directory <path_to_install>/comets_macos
+where <path_to_install> is the directory where you chose to install. 
+If you do it in your home directory, typically this will end up being 
+/Users/username/comets_macos where 'username' is your username.
+
+To finish the installation add these lines to your .zshrc file:
+
+export COMETS_HOME=<path_to_install>/comets_macos/comets_2.12.3/
+export PATH=$PATH:$COMETS_HOME
+export PYTHONPATH=$PYTHONPATH:$COMETS_HOME/lib/cometspy-master/
+
+where you will replace <path_to_install> with the actuall path as explained above. 
+Typically this will be /Users/username/ where 'username' is your username.
+
+Don't forget to source your .zshrc file with:
+
+.   ~/.zshrc
+
+Once you installed, go to <path_to_install>/comets_macos/comets_2.12.3/examples 
+and either try to run the jupyter notebook P1_test_tube_aerobic.ipynb
+or go to <path_to_install>/comets_macos/comets_2.12.3/examples/Ecoli_core_glop
+and run:
+
+./comets_scr comets_script
+
+to try COMETS. 
+
+If you have questions ask us at comets@bu.edu 
+or at our Gitter forum: https://app.gitter.im/#/room/#segrelab_comets:gitter.im

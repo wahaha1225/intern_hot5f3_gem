@@ -1,0 +1,21 @@
+Pathway ID,Pathway Name,hot5f3_hits,DG898_hits,shared_hits,hot_only_hits,DG_only_hits,Jaccard_in_pathway,Coverage_hot5f3,Coverage_DG898,Coverage_shared,both_have_hits,has_shared_hits,delta,abs_delta,mean,log2FC,label,total,order
+map02020,Two-component system,69,73,69,0,4,0.9452,0.1324,0.1401,0.1324,True,True,-4.0,4.0,71.0,-0.08073127211285688,Two-component system,142,1
+map00910,Nitrogen metabolism,11,15,10,1,5,0.625,0.1594,0.2174,0.1449,True,True,-4.0,4.0,13.0,-0.4306343543298623,Nitrogen metabolism,26,2
+map01310,Nitrogen cycle,2,5,2,0,3,0.4,0.0513,0.1282,0.0513,True,True,-3.0,3.0,3.5,-1.137503523749935,Nitrogen cycle,7,3
+map00040,Pentose and glucuronate interconversions,24,26,23,1,3,0.8519,0.2667,0.2889,0.2556,True,True,-2.0,2.0,25.0,-0.11321061044799094,Pentose and glucuronate interconversions,50,4
+map01230,Biosynthesis of amino acids,111,112,111,0,1,0.9911,0.4606,0.4647,0.4606,True,True,-1.0,1.0,111.5,-0.012881291296732248,Biosynthesis of amino acids,223,5
+map02010,ABC transporters,156,157,154,2,3,0.9686,0.3029,0.3049,0.299,True,True,-1.0,1.0,156.5,-0.009189171454660451,ABC transporters,313,6
+map01240,Biosynthesis of cofactors,139,138,138,1,0,0.9928,0.3658,0.3632,0.3632,True,True,1.0,1.0,138.5,0.010379145779999389,Biosynthesis of cofactors,277,7
+map00627,Aminobenzoate degradation,15,13,13,2,0,0.8667,0.1685,0.1461,0.1461,True,True,2.0,2.0,14.0,0.19930880822340666,Aminobenzoate degradation,28,8
+map00380,Tryptophan metabolism,17,15,15,2,0,0.8824,0.2099,0.1852,0.1852,True,True,2.0,2.0,16.0,0.1750867065580914,Tryptophan metabolism,32,9
+map00260,"Glycine, serine and threonine metabolism",44,42,42,2,0,0.9545,0.4,0.3818,0.3818,True,True,2.0,2.0,43.0,0.06634249482869607,"Glycine, serine and threonine metabolism",86,10
+map00930,Caprolactam degradation,9,6,6,3,0,0.6667,0.4091,0.2727,0.2727,True,True,3.0,3.0,7.5,0.5474877953024933,Caprolactam degradation,15,11
+map00523,Polyketide sugar unit biosynthesis,8,4,4,4,0,0.5,0.1356,0.0678,0.0678,True,True,4.0,4.0,6.0,0.9175378398080271,Polyketide sugar unit biosynthesis,12,12
+map00350,Tyrosine metabolism,24,20,20,4,0,0.8333,0.2824,0.2353,0.2353,True,True,4.0,4.0,22.0,0.25715783949712445,Tyrosine metabolism,44,13
+map00541,Biosynthesis of various nucleotide sugars,26,22,21,5,1,0.7778,0.194,0.1642,0.1567,True,True,4.0,4.0,24.0,0.2360673582335245,Biosynthesis of various nucleotide sugars,48,14
+map00621,Dioxin degradation,5,1,1,4,0,0.2,0.1613,0.0323,0.0323,True,True,4.0,4.0,3.0,1.874469117916141,Dioxin degradation,6,15
+map00360,Phenylalanine metabolism,25,19,19,6,0,0.76,0.3333,0.2533,0.2533,True,True,6.0,6.0,22.0,0.38702312310924725,Phenylalanine metabolism,44,16
+map01250,Biosynthesis of nucleotide sugars,47,40,39,8,1,0.8125,0.2146,0.1826,0.1781,True,True,7.0,7.0,43.5,0.23000560544632323,Biosynthesis of nucleotide sugars,87,17
+map00622,Xylene degradation,9,1,1,8,0,0.1111,0.2647,0.0294,0.0294,True,True,8.0,8.0,5.0,2.662965012722429,Xylene degradation,10,18
+map00362,Benzoate degradation,38,28,28,10,0,0.7368,0.3304,0.2435,0.2435,True,True,10.0,10.0,33.0,0.43389652653015964,Benzoate degradation,66,19
+map01220,Degradation of aromatic compounds,33,21,21,12,0,0.6364,0.1535,0.0977,0.0977,True,True,12.0,12.0,27.0,0.6398244357556746,Degradation of aromatic compounds,54,20

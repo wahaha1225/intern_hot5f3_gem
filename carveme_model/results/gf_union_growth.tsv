@@ -1,0 +1,9 @@
+medium	status	mu_per_h
+mbm_glc__D	optimal	2.400217152446231
+ATCC_glc__D	optimal	0.8930785785012183
+mbm_lac_D	optimal	1.4401302914677894
+ATCC_lac_D	optimal	0.7031488576199332
+mbm_pyr	optimal	1.4401302914677154
+ATCC_pyr	optimal	0.7031488576208996
+mbm_nocarbon	optimal	0.0
+ATCC_nocarbon	optimal	0.0

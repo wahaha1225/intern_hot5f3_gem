@@ -1,0 +1,9 @@
+/usr/bin/java
+java version "1.7.0_21"
+OpenJDK Runtime Environment (IcedTea 2.3.9) (7u21-2.3.9-1ubuntu1)
+OpenJDK Client VM (build 23.7-b01, mixed mode, sharing)
+LIBXCB_ALLOW_SLOPPY_LOCK:
+LIBGL_DRIVERS_PATH:
+LIBGL_DEBUG:
+java
+Error: Could not find or load main class com.jogamp.newt.opengl.GLWindow

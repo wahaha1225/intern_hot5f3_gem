@@ -1,0 +1,167 @@
+medium	description	compound	name
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	o2	O2
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	na1	Na+
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	cl	Cl-
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	so4	Sulfate
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	k	K+
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	f	F-
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	h2co3	H2CO3
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	mg2	Mg
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	ca2	Ca2+
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	fe3	Fe+3
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	nh3	NH3
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	pi	Phosphate
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	h2o	H2O
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	btn	BIOT
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	fol	Folate
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	pydxn	Pyridoxol
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	ribflv	Riboflavin
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	thm	Thiamin
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	ncam	Nicotinamide
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	pnto__R	PAN
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	b12	Vitamin B12
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	4abz	ABEE
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	cu2	Cu2+
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	mn2	Mn2+
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	zn2	Zn2+
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	cobalt2	Co2+
+mbm_glc__D	Zac's Marine Broth Medium) with Glucose	glc__D	Glucose 
+ATCC_glc__D	ATCC Medium 	o2	O2
+ATCC_glc__D	ATCC Medium 	na1	Na+
+ATCC_glc__D	ATCC Medium 	no3	Nitrate
+ATCC_glc__D	ATCC Medium 	pi	Phosphate
+ATCC_glc__D	ATCC Medium 	fe3	Fe+3
+ATCC_glc__D	ATCC Medium 	cl	Cl-
+ATCC_glc__D	ATCC Medium 	mn2	Mn2+
+ATCC_glc__D	ATCC Medium 	zn2	Zn2+
+ATCC_glc__D	ATCC Medium 	so4	Sulfate
+ATCC_glc__D	ATCC Medium 	cobalt2	Co2+
+ATCC_glc__D	ATCC Medium 	cu2	Cu2+
+ATCC_glc__D	ATCC Medium 	ni2	Ni2+
+ATCC_glc__D	ATCC Medium 	k	K+
+ATCC_glc__D	ATCC Medium 	b12	Vitamin B12
+ATCC_glc__D	ATCC Medium 	ca2	Ca2+
+ATCC_glc__D	ATCC Medium 	mg2	Mg
+ATCC_glc__D	ATCC Medium 	glc__D	Glucose 
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	o2	O2
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	na1	Na+
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	cl	Cl-
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	so4	Sulfate
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	k	K+
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	f	F-
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	h2co3	H2CO3
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	mg2	Mg
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	ca2	Ca2+
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	fe3	Fe+3
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	nh3	NH3
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	pi	Phosphate
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	h2o	H2O
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	btn	BIOT
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	fol	Folate
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	pydxn	Pyridoxol
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	ribflv	Riboflavin
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	thm	Thiamin
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	ncam	Nicotinamide
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	pnto__R	PAN
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	b12	Vitamin B12
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	4abz	ABEE
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	cu2	Cu2+
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	mn2	Mn2+
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	zn2	Zn2+
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	cobalt2	Co2+
+mbm_lac_D	Zac's Marine Broth Medium) with Glucose	lac__D	Lactate
+ATCC_lac_D	ATCC Medium 	o2	O2
+ATCC_lac_D	ATCC Medium 	na1	Na+
+ATCC_lac_D	ATCC Medium 	no3	Nitrate
+ATCC_lac_D	ATCC Medium 	pi	Phosphate
+ATCC_lac_D	ATCC Medium 	fe3	Fe+3
+ATCC_lac_D	ATCC Medium 	cl	Cl-
+ATCC_lac_D	ATCC Medium 	mn2	Mn2+
+ATCC_lac_D	ATCC Medium 	zn2	Zn2+
+ATCC_lac_D	ATCC Medium 	so4	Sulfate
+ATCC_lac_D	ATCC Medium 	cobalt2	Co2+
+ATCC_lac_D	ATCC Medium 	cu2	Cu2+
+ATCC_lac_D	ATCC Medium 	ni2	Ni2+
+ATCC_lac_D	ATCC Medium 	k	K+
+ATCC_lac_D	ATCC Medium 	b12	Vitamin B12
+ATCC_lac_D	ATCC Medium 	ca2	Ca2+
+ATCC_lac_D	ATCC Medium 	mg2	Mg
+ATCC_lac_D	ATCC Medium 	lac__D	Lactate
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	o2	O2
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	na1	Na+
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	cl	Cl-
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	so4	Sulfate
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	k	K+
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	f	F-
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	h2co3	H2CO3
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	mg2	Mg
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	ca2	Ca2+
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	fe3	Fe+3
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	nh3	NH3
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	pi	Phosphate
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	h2o	H2O
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	btn	BIOT
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	fol	Folate
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	pydxn	Pyridoxol
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	ribflv	Riboflavin
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	thm	Thiamin
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	ncam	Nicotinamide
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	pnto__R	PAN
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	b12	Vitamin B12
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	4abz	ABEE
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	cu2	Cu2+
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	mn2	Mn2+
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	zn2	Zn2+
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	cobalt2	Co2+
+mbm_pyr	Zac's Marine Broth Medium) with Glucose	pyr	Pyruvate
+ATCC_pyr	ATCC Medium 	o2	O2
+ATCC_pyr	ATCC Medium 	na1	Na+
+ATCC_pyr	ATCC Medium 	no3	Nitrate
+ATCC_pyr	ATCC Medium 	pi	Phosphate
+ATCC_pyr	ATCC Medium 	fe3	Fe+3
+ATCC_pyr	ATCC Medium 	cl	Cl-
+ATCC_pyr	ATCC Medium 	mn2	Mn2+
+ATCC_pyr	ATCC Medium 	zn2	Zn2+
+ATCC_pyr	ATCC Medium 	so4	Sulfate
+ATCC_pyr	ATCC Medium 	cobalt2	Co2+
+ATCC_pyr	ATCC Medium 	cu2	Cu2+
+ATCC_pyr	ATCC Medium 	ni2	Ni2+
+ATCC_pyr	ATCC Medium 	k	K+
+ATCC_pyr	ATCC Medium 	b12	Vitamin B12
+ATCC_pyr	ATCC Medium 	ca2	Ca2+
+ATCC_pyr	ATCC Medium 	mg2	Mg
+ATCC_pyr	ATCC Medium 	pyr	Pyruvate
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	o2	O2
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	na1	Na+
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	cl	Cl-
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	so4	Sulfate
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	k	K+
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	f	F-
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	mg2	Mg
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	ca2	Ca2+
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	fe3	Fe+3
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	nh3	NH3
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	pi	Phosphate
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	h2o	H2O
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	b12	Vitamin B12
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	4abz	ABEE
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	cu2	Cu2+
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	mn2	Mn2+
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	zn2	Zn2+
+mbm_nocarbon	Zac's Marine Broth Medium) with Glucose	cobalt2	Co2+
+ATCC_nocarbon	ATCC Medium 	o2	O2
+ATCC_nocarbon	ATCC Medium 	na1	Na+
+ATCC_nocarbon	ATCC Medium 	no3	Nitrate
+ATCC_nocarbon	ATCC Medium 	pi	Phosphate
+ATCC_nocarbon	ATCC Medium 	fe3	Fe+3
+ATCC_nocarbon	ATCC Medium 	cl	Cl-
+ATCC_nocarbon	ATCC Medium 	mn2	Mn2+
+ATCC_nocarbon	ATCC Medium 	zn2	Zn2+
+ATCC_nocarbon	ATCC Medium 	so4	Sulfate
+ATCC_nocarbon	ATCC Medium 	cobalt2	Co2+
+ATCC_nocarbon	ATCC Medium 	cu2	Cu2+
+ATCC_nocarbon	ATCC Medium 	ni2	Ni2+
+ATCC_nocarbon	ATCC Medium 	k	K+
+ATCC_nocarbon	ATCC Medium 	b12	Vitamin B12
+ATCC_nocarbon	ATCC Medium 	ca2	Ca2+
+ATCC_nocarbon	ATCC Medium 	mg2	Mg

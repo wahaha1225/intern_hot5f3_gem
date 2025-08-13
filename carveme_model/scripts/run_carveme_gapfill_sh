@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Minimal: iterative gapfill on six media
+# Requires: output.xml (from run_carveme.sh) and media.tsv in current directory
+
+in="output.xml"
+for m in mbm_glc__D ATCC_glc__D mbm_lac_D ATCC_lac_D mbm_pyr ATCC_pyr; do
+  out="hot5f3_gf_${m}.xml"
+  gapfill -m "$m" --mediadb media.tsv --fbc2 "$in" -o "$out"
+  in="$out"
+done
+
+echo "final model: $in"
+# Expected: hot5f3_gf_ATCC_pyr.xml

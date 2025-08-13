@@ -1,0 +1,14 @@
+#!/bin/bash -l
+#SBATCH --account emsla51933                   # charged account
+#SBATCH --time 24:00                            # 31 hour 0 minute time limit
+#SBATCH --nodes 1                              # 2 nodes
+#SBATCH --ntasks-per-node 8                  # 36 processes on each node
+#SBATCH --job-name comets2D_test                 # job name in queue (``squeue``)
+#SBATCH --error comets2D_test-%j.err             # stderr file with job_name-job_id.err
+#SBATCH --output comets2D_test-%j.out            # stdout file
+#SBATCH --mail-user=dukovski@bu.edu  # email user
+#SBATCH --mail-type END                        # when job ends
+
+./comets_scr comets_script 
+
+

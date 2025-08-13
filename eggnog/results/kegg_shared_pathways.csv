@@ -1,0 +1,297 @@
+﻿Pathway ID,Pathway Name,hot5f3_hits,DG898_hits,shared_hits,hot_only_hits,DG_only_hits,Jaccard_in_pathway,Coverage_hot5f3,Coverage_DG898,Coverage_shared,both_have_hits,has_shared_hits
+map01100,Metabolic pathways,844,819,804,40,15,0.936,0.1732,0.1681,0.165,Yes,Yes
+map01110,Biosynthesis of secondary metabolites,312,308,305,7,3,0.9683,0.1405,0.1387,0.1374,Yes,Yes
+map01120,Microbial metabolism in diverse environments,281,258,251,30,7,0.8715,0.2035,0.1868,0.1818,Yes,Yes
+map02010,ABC transporters,156,157,154,2,3,0.9686,0.3029,0.3049,0.299,Yes,Yes
+map01240,Biosynthesis of cofactors,139,138,138,1,0,0.9928,0.3658,0.3632,0.3632,Yes,Yes
+map01230,Biosynthesis of amino acids,111,112,111,0,1,0.9911,0.4606,0.4647,0.4606,Yes,Yes
+map01200,Carbon metabolism,108,105,104,4,1,0.9541,0.2865,0.2785,0.2759,Yes,Yes
+map02020,Two-component system,69,73,69,0,4,0.9452,0.1324,0.1401,0.1324,Yes,Yes
+map00230,Purine metabolism,57,57,57,0,0,1.0,0.2545,0.2545,0.2545,Yes,Yes
+map03010,Ribosome,54,54,54,0,0,1.0,0.2687,0.2687,0.2687,Yes,Yes
+map00190,Oxidative phosphorylation,51,52,51,0,1,0.9808,0.2277,0.2321,0.2277,Yes,Yes
+map02024,Quorum sensing,49,48,47,2,1,0.94,0.1731,0.1696,0.1661,Yes,Yes
+map00630,Glyoxylate and dicarboxylate metabolism,47,46,46,1,0,0.9787,0.3983,0.3898,0.3898,Yes,Yes
+map01232,Nucleotide metabolism,44,44,44,0,0,1.0,0.3577,0.3577,0.3577,Yes,Yes
+map00260,"Glycine, serine and threonine metabolism",44,42,42,2,0,0.9545,0.4,0.3818,0.3818,Yes,Yes
+map00860,Porphyrin metabolism,41,41,41,0,0,1.0,0.2887,0.2887,0.2887,Yes,Yes
+map00240,Pyrimidine metabolism,40,40,40,0,0,1.0,0.3509,0.3509,0.3509,Yes,Yes
+map01250,Biosynthesis of nucleotide sugars,47,40,39,8,1,0.8125,0.2146,0.1826,0.1781,Yes,Yes
+map00270,Cysteine and methionine metabolism,36,36,36,0,0,1.0,0.2812,0.2812,0.2812,Yes,Yes
+map00520,Amino sugar and nucleotide sugar metabolism,37,36,36,1,0,0.973,0.319,0.3103,0.3103,Yes,Yes
+map00620,Pyruvate metabolism,37,37,36,1,1,0.9474,0.2782,0.2782,0.2707,Yes,Yes
+map03070,Bacterial secretion system,34,35,34,0,1,0.9714,0.4595,0.473,0.4595,Yes,Yes
+map01210,2-Oxocarboxylic acid metabolism,33,33,33,0,0,1.0,0.292,0.292,0.292,Yes,Yes
+map00920,Sulfur metabolism,34,33,33,1,0,0.9706,0.2636,0.2558,0.2558,Yes,Yes
+map00680,Methane metabolism,33,32,32,1,0,0.9697,0.1684,0.1633,0.1633,Yes,Yes
+map00650,Butanoate metabolism,35,34,31,4,3,0.8158,0.307,0.2982,0.2719,Yes,Yes
+map00010,Glycolysis / Gluconeogenesis,29,29,29,0,0,1.0,0.271,0.271,0.271,Yes,Yes
+map02040,Flagellar assembly,29,29,29,0,0,1.0,0.5273,0.5273,0.5273,Yes,Yes
+map00790,Folate biosynthesis,28,28,28,0,0,1.0,0.3333,0.3333,0.3333,Yes,Yes
+map00030,Pentose phosphate pathway,29,28,28,1,0,0.9655,0.3258,0.3146,0.3146,Yes,Yes
+map00280,"Valine, leucine and isoleucine degradation",29,28,28,1,0,0.9655,0.4085,0.3944,0.3944,Yes,Yes
+map00720,Other carbon fixation pathways,28,29,28,0,1,0.9655,0.2314,0.2397,0.2314,Yes,Yes
+map00362,Benzoate degradation,38,28,28,10,0,0.7368,0.3304,0.2435,0.2435,Yes,Yes
+map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis",26,26,26,0,0,1.0,0.3514,0.3514,0.3514,Yes,Yes
+map00640,Propanoate metabolism,27,26,26,1,0,0.963,0.2596,0.25,0.25,Yes,Yes
+map00051,Fructose and mannose metabolism,27,27,26,1,1,0.9286,0.2348,0.2348,0.2261,Yes,Yes
+map00970,Aminoacyl-tRNA biosynthesis,24,24,24,0,0,1.0,0.3636,0.3636,0.3636,Yes,Yes
+map00330,Arginine and proline metabolism,25,24,24,1,0,0.96,0.2174,0.2087,0.2087,Yes,Yes
+map00040,Pentose and glucuronate interconversions,24,26,23,1,3,0.8519,0.2667,0.2889,0.2556,Yes,Yes
+map00670,One carbon pool by folate,22,22,22,0,0,1.0,0.3385,0.3385,0.3385,Yes,Yes
+map00760,Nicotinate and nicotinamide metabolism,22,22,22,0,0,1.0,0.2245,0.2245,0.2245,Yes,Yes
+map00250,"Alanine, aspartate and glutamate metabolism",23,23,22,1,1,0.9167,0.3286,0.3286,0.3143,Yes,Yes
+map00220,Arginine biosynthesis,21,21,21,0,0,1.0,0.3134,0.3134,0.3134,Yes,Yes
+map00550,Peptidoglycan biosynthesis,21,21,21,0,0,1.0,0.3818,0.3818,0.3818,Yes,Yes
+map00340,Histidine metabolism,22,21,21,1,0,0.9545,0.4681,0.4468,0.4468,Yes,Yes
+map01212,Fatty acid metabolism,22,21,21,1,0,0.9545,0.2619,0.25,0.25,Yes,Yes
+map00541,Biosynthesis of various nucleotide sugars,26,22,21,5,1,0.7778,0.194,0.1642,0.1567,Yes,Yes
+map01220,Degradation of aromatic compounds,33,21,21,12,0,0.6364,0.1535,0.0977,0.0977,Yes,Yes
+map00770,Pantothenate and CoA biosynthesis,20,20,20,0,0,1.0,0.4444,0.4444,0.4444,Yes,Yes
+map00020,Citrate cycle (TCA cycle),20,21,20,0,1,0.9524,0.2857,0.3,0.2857,Yes,Yes
+map00350,Tyrosine metabolism,24,20,20,4,0,0.8333,0.2824,0.2353,0.2353,Yes,Yes
+map04112,Cell cycle - Caulobacter,19,19,19,0,0,1.0,0.6129,0.6129,0.6129,Yes,Yes
+map00500,Starch and sucrose metabolism,20,19,19,1,0,0.95,0.1887,0.1792,0.1792,Yes,Yes
+map03440,Homologous recombination,20,19,19,1,0,0.95,0.2778,0.2639,0.2639,Yes,Yes
+map00360,Phenylalanine metabolism,25,19,19,6,0,0.76,0.3333,0.2533,0.2533,Yes,Yes
+map00710,Carbon fixation by Calvin cycle,17,17,17,0,0,1.0,0.4595,0.4595,0.4595,Yes,Yes
+map03018,RNA degradation,17,17,17,0,0,1.0,0.2152,0.2152,0.2152,Yes,Yes
+map05111,Biofilm formation - Vibrio cholerae,17,18,17,0,1,0.9444,0.1604,0.1698,0.1604,Yes,Yes
+map00052,Galactose metabolism,16,16,16,0,0,1.0,0.2,0.2,0.2,Yes,Yes
+map00300,Lysine biosynthesis,16,16,16,0,0,1.0,0.3333,0.3333,0.3333,Yes,Yes
+map00564,Glycerophospholipid metabolism,16,16,16,0,0,1.0,0.1368,0.1368,0.1368,Yes,Yes
+map00785,Lipoic acid metabolism,16,16,16,0,0,1.0,0.5161,0.5161,0.5161,Yes,Yes
+map03060,Protein export,16,16,16,0,0,1.0,0.3265,0.3265,0.3265,Yes,Yes
+map00071,Fatty acid degradation,17,16,16,1,0,0.9412,0.2833,0.2667,0.2667,Yes,Yes
+map00053,Ascorbate and aldarate metabolism,16,15,15,1,0,0.9375,0.2581,0.2419,0.2419,Yes,Yes
+map03430,Mismatch repair,16,15,15,1,0,0.9375,0.3636,0.3409,0.3409,Yes,Yes
+map00380,Tryptophan metabolism,17,15,15,2,0,0.8824,0.2099,0.1852,0.1852,Yes,Yes
+map03030,DNA replication,15,14,14,1,0,0.9333,0.25,0.2333,0.2333,Yes,Yes
+map00061,Fatty acid biosynthesis,13,13,13,0,0,1.0,0.325,0.325,0.325,Yes,Yes
+map00480,Glutathione metabolism,13,13,13,0,0,1.0,0.2281,0.2281,0.2281,Yes,Yes
+map00310,Lysine degradation,14,13,13,1,0,0.9286,0.1429,0.1327,0.1327,Yes,Yes
+map00410,beta-Alanine metabolism,14,13,13,1,0,0.9286,0.3043,0.2826,0.2826,Yes,Yes
+map00627,Aminobenzoate degradation,15,13,13,2,0,0.8667,0.1685,0.1461,0.1461,Yes,Yes
+map00470,D-Amino acid metabolism,12,12,12,0,0,1.0,0.2182,0.2182,0.2182,Yes,Yes
+map00730,Thiamine metabolism,12,12,12,0,0,1.0,0.3333,0.3333,0.3333,Yes,Yes
+map00900,Terpenoid backbone biosynthesis,12,12,12,0,0,1.0,0.1875,0.1875,0.1875,Yes,Yes
+map00983,Drug metabolism - other enzymes,12,12,12,0,0,1.0,0.375,0.375,0.375,Yes,Yes
+map01501,beta-Lactam resistance,12,12,12,0,0,1.0,0.1071,0.1071,0.1071,Yes,Yes
+map03410,Base excision repair,12,12,12,0,0,1.0,0.2264,0.2264,0.2264,Yes,Yes
+map05415,Diabetic cardiomyopathy,12,12,12,0,0,1.0,0.075,0.075,0.075,Yes,Yes
+map00290,"Valine, leucine and isoleucine biosynthesis",11,11,11,0,0,1.0,0.5789,0.5789,0.5789,Yes,Yes
+map00561,Glycerolipid metabolism,11,11,11,0,0,1.0,0.117,0.117,0.117,Yes,Yes
+map01320,Sulfur cycle,11,11,11,0,0,1.0,0.2115,0.2115,0.2115,Yes,Yes
+map02026,Biofilm formation - Escherichia coli,11,11,11,0,0,1.0,0.1803,0.1803,0.1803,Yes,Yes
+map04122,Sulfur relay system,11,11,11,0,0,1.0,0.3793,0.3793,0.3793,Yes,Yes
+map04714,Thermogenesis,11,11,11,0,0,1.0,0.0585,0.0585,0.0585,Yes,Yes
+map00450,Selenocompound metabolism,10,10,10,0,0,1.0,0.2778,0.2778,0.2778,Yes,Yes
+map00660,C5-Branched dibasic acid metabolism,10,10,10,0,0,1.0,0.3448,0.3448,0.3448,Yes,Yes
+map00910,Nitrogen metabolism,11,15,10,1,5,0.625,0.1594,0.2174,0.1449,Yes,Yes
+map00130,Ubiquinone and other terpenoid-quinone biosynthesis,9,9,9,0,0,1.0,0.1406,0.1406,0.1406,Yes,Yes
+map00430,Taurine and hypotaurine metabolism,9,9,9,0,0,1.0,0.3103,0.3103,0.3103,Yes,Yes
+map00740,Riboflavin metabolism,9,9,9,0,0,1.0,0.1667,0.1667,0.1667,Yes,Yes
+map05016,Huntington disease,9,9,9,0,0,1.0,0.0393,0.0393,0.0393,Yes,Yes
+map05208,Chemical carcinogenesis - reactive oxygen species,9,9,9,0,0,1.0,0.0514,0.0514,0.0514,Yes,Yes
+map00562,Inositol phosphate metabolism,10,9,9,1,0,0.9,0.1299,0.1169,0.1169,Yes,Yes
+map05012,Parkinson disease,10,9,9,1,0,0.9,0.0478,0.0431,0.0431,Yes,Yes
+map00195,Photosynthesis,8,8,8,0,0,1.0,0.127,0.127,0.127,Yes,Yes
+map00521,Streptomycin biosynthesis,8,8,8,0,0,1.0,0.381,0.381,0.381,Yes,Yes
+map03420,Nucleotide excision repair,8,8,8,0,0,1.0,0.1311,0.1311,0.1311,Yes,Yes
+map04146,Peroxisome,8,8,8,0,0,1.0,0.1081,0.1081,0.1081,Yes,Yes
+map05010,Alzheimer disease,8,8,8,0,0,1.0,0.0267,0.0267,0.0267,Yes,Yes
+map05020,Prion disease,8,8,8,0,0,1.0,0.0383,0.0383,0.0383,Yes,Yes
+map05022,Pathways of neurodegeneration - multiple diseases,8,8,8,0,0,1.0,0.0217,0.0217,0.0217,Yes,Yes
+map00540,Lipopolysaccharide biosynthesis,7,7,7,0,0,1.0,0.14,0.14,0.14,Yes,Yes
+map00780,Biotin metabolism,7,7,7,0,0,1.0,0.2917,0.2917,0.2917,Yes,Yes
+map02030,Bacterial chemotaxis,7,7,7,0,0,1.0,0.2692,0.2692,0.2692,Yes,Yes
+map05014,Amyotrophic lateral sclerosis,7,7,7,0,0,1.0,0.025,0.025,0.025,Yes,Yes
+map00907,"Pinene, camphor and geraniol degradation",8,7,7,1,0,0.875,0.32,0.28,0.28,Yes,Yes
+map00361,Chlorocyclohexane and chlorobenzene degradation,6,6,6,0,0,1.0,0.1463,0.1463,0.1463,Yes,Yes
+map00401,Novobiocin biosynthesis,6,6,6,0,0,1.0,0.2,0.2,0.2,Yes,Yes
+map00626,Naphthalene degradation,6,6,6,0,0,1.0,0.2069,0.2069,0.2069,Yes,Yes
+map00960,"Tropane, piperidine and pyridine alkaloid biosynthesis",6,6,6,0,0,1.0,0.1579,0.1579,0.1579,Yes,Yes
+map01503,Cationic antimicrobial peptide (CAMP) resistance,6,6,6,0,0,1.0,0.1111,0.1111,0.1111,Yes,Yes
+map03020,RNA polymerase,6,6,6,0,0,1.0,0.0909,0.0909,0.0909,Yes,Yes
+map04066,HIF-1 signaling pathway,6,6,6,0,0,1.0,0.0779,0.0779,0.0779,Yes,Yes
+map04932,Non-alcoholic fatty liver disease,6,6,6,0,0,1.0,0.0472,0.0472,0.0472,Yes,Yes
+map05134,Legionellosis,6,6,6,0,0,1.0,0.087,0.087,0.087,Yes,Yes
+map05230,Central carbon metabolism in cancer,6,6,6,0,0,1.0,0.1224,0.1224,0.1224,Yes,Yes
+map00930,Caprolactam degradation,9,6,6,3,0,0.6667,0.4091,0.2727,0.2727,Yes,Yes
+map00261,Monobactam biosynthesis,5,5,5,0,0,1.0,0.1786,0.1786,0.1786,Yes,Yes
+map00625,Chloroalkane and chloroalkene degradation,5,5,5,0,0,1.0,0.1163,0.1163,0.1163,Yes,Yes
+map00750,Vitamin B6 metabolism,5,5,5,0,0,1.0,0.2083,0.2083,0.2083,Yes,Yes
+map00791,Atrazine degradation,5,5,5,0,0,1.0,0.3125,0.3125,0.3125,Yes,Yes
+map00980,Metabolism of xenobiotics by cytochrome P450,5,5,5,0,0,1.0,0.1471,0.1471,0.1471,Yes,Yes
+map01502,Vancomycin resistance,5,5,5,0,0,1.0,0.2273,0.2273,0.2273,Yes,Yes
+map04212,Longevity regulating pathway - worm,5,5,5,0,0,1.0,0.0893,0.0893,0.0893,Yes,Yes
+map04922,Glucagon signaling pathway,5,5,5,0,0,1.0,0.0877,0.0877,0.0877,Yes,Yes
+map04981,Folate transport and metabolism,5,5,5,0,0,1.0,0.2083,0.2083,0.2083,Yes,Yes
+map05132,Salmonella infection,5,5,5,0,0,1.0,0.023,0.023,0.023,Yes,Yes
+map05152,Tuberculosis,5,5,5,0,0,1.0,0.0382,0.0382,0.0382,Yes,Yes
+map00624,Polycyclic aromatic hydrocarbon degradation,6,5,5,1,0,0.8333,0.1395,0.1163,0.1163,Yes,Yes
+map00950,Isoquinoline alkaloid biosynthesis,6,5,5,1,0,0.8333,0.0952,0.0794,0.0794,Yes,Yes
+map00982,Drug metabolism - cytochrome P450,6,5,5,1,0,0.8333,0.24,0.2,0.2,Yes,Yes
+map00643,Styrene degradation,7,7,5,2,2,0.5556,0.28,0.28,0.2,Yes,Yes
+map00623,Toluene degradation,4,4,4,0,0,1.0,0.087,0.087,0.087,Yes,Yes
+map00999,"Biosynthesis of various plant secondary metabolites; Including: Crocin biosynthesis, Ginsenoside biosynthesis, Saponin adjuvant biosynthesis, Cannabidiol biosynthesis, Mugineic acid biosynthesis, Pentagalloylglucose biosynthesis, Benzoxazinoid biosynthesis, Gramine biosynthesis, Coumarin biosynthesis, Furanocoumarin biosynthesis, Hordatine biosynthesis, Podophyllotoxin biosynthesis",4,4,4,0,0,1.0,0.0541,0.0541,0.0541,Yes,Yes
+map03320,PPAR signaling pathway,4,4,4,0,0,1.0,0.0635,0.0635,0.0635,Yes,Yes
+map04626,Plant-pathogen interaction,4,4,4,0,0,1.0,0.046,0.046,0.046,Yes,Yes
+map04936,Alcoholic liver disease,4,4,4,0,0,1.0,0.0381,0.0381,0.0381,Yes,Yes
+map04980,Cobalamin transport and metabolism,4,4,4,0,0,1.0,0.2353,0.2353,0.2353,Yes,Yes
+map05120,Epithelial cell signaling in Helicobacter pylori infection,4,4,4,0,0,1.0,0.044,0.044,0.044,Yes,Yes
+map05200,Pathways in cancer,4,4,4,0,0,1.0,0.0096,0.0096,0.0096,Yes,Yes
+map05417,Lipid and atherosclerosis,4,4,4,0,0,1.0,0.025,0.025,0.025,Yes,Yes
+map05418,Fluid shear stress and atherosclerosis,4,4,4,0,0,1.0,0.0404,0.0404,0.0404,Yes,Yes
+map00460,Cyanoamino acid metabolism,5,4,4,1,0,0.8,0.1389,0.1111,0.1111,Yes,Yes
+map00633,Nitrotoluene degradation,5,4,4,1,0,0.8,0.2174,0.1739,0.1739,Yes,Yes
+map02025,Biofilm formation - Pseudomonas aeruginosa,5,4,4,1,0,0.8,0.0556,0.0444,0.0444,Yes,Yes
+map00523,Polyketide sugar unit biosynthesis,8,4,4,4,0,0.5,0.1356,0.0678,0.0678,Yes,Yes
+map00074,Mycolic acid biosynthesis,3,3,3,0,0,1.0,0.0857,0.0857,0.0857,Yes,Yes
+map00333,Prodigiosin biosynthesis,3,3,3,0,0,1.0,0.1429,0.1429,0.1429,Yes,Yes
+map00440,Phosphonate and phosphinate metabolism,3,3,3,0,0,1.0,0.0638,0.0638,0.0638,Yes,Yes
+map00531,Glycosaminoglycan degradation,3,3,3,0,0,1.0,0.2,0.2,0.2,Yes,Yes
+map00600,Sphingolipid metabolism,3,3,3,0,0,1.0,0.0545,0.0545,0.0545,Yes,Yes
+map00830,Retinol metabolism,3,3,3,0,0,1.0,0.06,0.06,0.06,Yes,Yes
+map01524,Platinum drug resistance,3,3,3,0,0,1.0,0.0652,0.0652,0.0652,Yes,Yes
+map02060,Phosphotransferase system (PTS),3,3,3,0,0,1.0,0.0417,0.0417,0.0417,Yes,Yes
+map04070,Phosphatidylinositol signaling system,3,3,3,0,0,1.0,0.0545,0.0545,0.0545,Yes,Yes
+map04148,Efferocytosis,3,3,3,0,0,1.0,0.0229,0.0229,0.0229,Yes,Yes
+map04213,Longevity regulating pathway - multiple species,3,3,3,0,0,1.0,0.0517,0.0517,0.0517,Yes,Yes
+map04217,Necroptosis,3,3,3,0,0,1.0,0.0312,0.0312,0.0312,Yes,Yes
+map04260,Cardiac muscle contraction,3,3,3,0,0,1.0,0.0448,0.0448,0.0448,Yes,Yes
+map04621,NOD-like receptor signaling pathway,3,3,3,0,0,1.0,0.0207,0.0207,0.0207,Yes,Yes
+map05130,Pathogenic Escherichia coli infection,3,3,3,0,0,1.0,0.0197,0.0197,0.0197,Yes,Yes
+map05131,Shigellosis,3,3,3,0,0,1.0,0.0146,0.0146,0.0146,Yes,Yes
+map00642,Ethylbenzene degradation,4,3,3,1,0,0.75,0.25,0.1875,0.1875,Yes,Yes
+map00121,Secondary bile acid biosynthesis,2,2,2,0,0,1.0,0.1333,0.1333,0.1333,Yes,Yes
+map00332,Carbapenem biosynthesis,2,2,2,0,0,1.0,0.0952,0.0952,0.0952,Yes,Yes
+map00364,Fluorobenzoate degradation,2,2,2,0,0,1.0,0.1111,0.1111,0.1111,Yes,Yes
+map00405,Phenazine biosynthesis,2,2,2,0,0,1.0,0.125,0.125,0.125,Yes,Yes
+map00903,Limonene degradation,2,2,2,0,0,1.0,0.2222,0.2222,0.2222,Yes,Yes
+map00946,Degradation of flavonoids,2,2,2,0,0,1.0,0.0952,0.0952,0.0952,Yes,Yes
+map00965,Betalain biosynthesis,2,2,2,0,0,1.0,0.25,0.25,0.25,Yes,Yes
+map00966,Glucosinolate biosynthesis,2,2,2,0,0,1.0,0.0952,0.0952,0.0952,Yes,Yes
+map01040,Biosynthesis of unsaturated fatty acids,2,2,2,0,0,1.0,0.0625,0.0625,0.0625,Yes,Yes
+map01053,Biosynthesis of siderophore group nonribosomal peptides,2,2,2,0,0,1.0,0.0556,0.0556,0.0556,Yes,Yes
+map01523,Antifolate resistance,2,2,2,0,0,1.0,0.0769,0.0769,0.0769,Yes,Yes
+map04016,MAPK signaling pathway - plant,2,2,2,0,0,1.0,0.037,0.037,0.037,Yes,Yes
+map04022,cGMP-PKG signaling pathway,2,2,2,0,0,1.0,0.0165,0.0165,0.0165,Yes,Yes
+map04142,Lysosome,2,2,2,0,0,1.0,0.0183,0.0183,0.0183,Yes,Yes
+map04152,AMPK signaling pathway,2,2,2,0,0,1.0,0.0235,0.0235,0.0235,Yes,Yes
+map04361,Axon regeneration,2,2,2,0,0,1.0,0.0339,0.0339,0.0339,Yes,Yes
+map04723,Retrograde endocannabinoid signaling,2,2,2,0,0,1.0,0.0168,0.0168,0.0168,Yes,Yes
+map04724,Glutamatergic synapse,2,2,2,0,0,1.0,0.0222,0.0222,0.0222,Yes,Yes
+map04727,GABAergic synapse,2,2,2,0,0,1.0,0.029,0.029,0.029,Yes,Yes
+map04910,Insulin signaling pathway,2,2,2,0,0,1.0,0.0227,0.0227,0.0227,Yes,Yes
+map04931,Insulin resistance,2,2,2,0,0,1.0,0.027,0.027,0.027,Yes,Yes
+map04964,Proximal tubule bicarbonate reclamation,2,2,2,0,0,1.0,0.1429,0.1429,0.1429,Yes,Yes
+map04978,Mineral absorption,2,2,2,0,0,1.0,0.0556,0.0556,0.0556,Yes,Yes
+map05017,Spinocerebellar ataxia,2,2,2,0,0,1.0,0.0172,0.0172,0.0172,Yes,Yes
+map05133,Pertussis,2,2,2,0,0,1.0,0.0253,0.0253,0.0253,Yes,Yes
+map05145,Toxoplasmosis,2,2,2,0,0,1.0,0.0211,0.0211,0.0211,Yes,Yes
+map05163,Human cytomegalovirus infection,2,2,2,0,0,1.0,0.0104,0.0104,0.0104,Yes,Yes
+map05203,Viral carcinogenesis,2,2,2,0,0,1.0,0.0115,0.0115,0.0115,Yes,Yes
+map05205,Proteoglycans in cancer,2,2,2,0,0,1.0,0.012,0.012,0.012,Yes,Yes
+map05206,MicroRNAs in cancer,2,2,2,0,0,1.0,0.009,0.009,0.009,Yes,Yes
+map05210,Colorectal cancer,2,2,2,0,0,1.0,0.0278,0.0278,0.0278,Yes,Yes
+map05340,Primary immunodeficiency,2,2,2,0,0,1.0,0.0541,0.0541,0.0541,Yes,Yes
+map00525,Acarbose and validamycin biosynthesis,2,3,2,0,1,0.6667,0.0741,0.1111,0.0741,Yes,Yes
+map00543,Exopolysaccharide biosynthesis,3,2,2,1,0,0.6667,0.0411,0.0274,0.0274,Yes,Yes
+map01310,Nitrogen cycle,2,5,2,0,3,0.4,0.0513,0.1282,0.0513,Yes,Yes
+map00140,Steroid hormone biosynthesis,1,1,1,0,0,1.0,0.0217,0.0217,0.0217,Yes,Yes
+map00311,Penicillin and cephalosporin biosynthesis,1,1,1,0,0,1.0,0.0625,0.0625,0.0625,Yes,Yes
+map00511,Other glycan degradation,1,1,1,0,0,1.0,0.0455,0.0455,0.0455,Yes,Yes
+map00524,"Neomycin, kanamycin and gentamicin biosynthesis",1,1,1,0,0,1.0,0.0172,0.0172,0.0172,Yes,Yes
+map00552,Teichoic acid biosynthesis,1,1,1,0,0,1.0,0.0244,0.0244,0.0244,Yes,Yes
+map00590,Arachidonic acid metabolism,1,1,1,0,0,1.0,0.0196,0.0196,0.0196,Yes,Yes
+map00592,alpha-Linolenic acid metabolism,1,1,1,0,0,1.0,0.0385,0.0385,0.0385,Yes,Yes
+map00603,Glycosphingolipid biosynthesis - globo and isoglobo series,1,1,1,0,0,1.0,0.0625,0.0625,0.0625,Yes,Yes
+map00901,Indole alkaloid biosynthesis,1,1,1,0,0,1.0,0.0175,0.0175,0.0175,Yes,Yes
+map00906,Carotenoid biosynthesis,1,1,1,0,0,1.0,0.0179,0.0179,0.0179,Yes,Yes
+map00908,Zeatin biosynthesis,1,1,1,0,0,1.0,0.1,0.1,0.1,Yes,Yes
+map00940,Phenylpropanoid biosynthesis,1,1,1,0,0,1.0,0.0303,0.0303,0.0303,Yes,Yes
+map00944,Flavone and flavonol biosynthesis,1,1,1,0,0,1.0,0.0667,0.0667,0.0667,Yes,Yes
+map00981,Insect hormone biosynthesis,1,1,1,0,0,1.0,0.0556,0.0556,0.0556,Yes,Yes
+map00984,Steroid degradation,1,1,1,0,0,1.0,0.0233,0.0233,0.0233,Yes,Yes
+map00998,"Biosynthesis of various antibiotics; Including: Kanosamine biosynthesis, Aurachin biosynthesis, Bacilysin biosynthesis, Puromycin biosynthesis, Dapdiamides biosynthesis, Fosfomycin biosynthesis, Cremeomycin biosynthesis, Fumagillin biosynthesis, Pentalenolactone biosynthesis, Terpentecin biosynthesis, Roseoflavin biosynthesis, Cycloserine biosynthesis",1,1,1,0,0,1.0,0.0135,0.0135,0.0135,Yes,Yes
+map01051,Biosynthesis of ansamycins,1,1,1,0,0,1.0,0.0312,0.0312,0.0312,Yes,Yes
+map03008,Ribosome biogenesis in eukaryotes,1,1,1,0,0,1.0,0.012,0.012,0.012,Yes,Yes
+map04011,MAPK signaling pathway - yeast,1,1,1,0,0,1.0,0.011,0.011,0.011,Yes,Yes
+map04013,MAPK signaling pathway - fly,1,1,1,0,0,1.0,0.0118,0.0118,0.0118,Yes,Yes
+map04014,Ras signaling pathway,1,1,1,0,0,1.0,0.0055,0.0055,0.0055,Yes,Yes
+map04015,Rap1 signaling pathway,1,1,1,0,0,1.0,0.0062,0.0062,0.0062,Yes,Yes
+map04020,Calcium signaling pathway,1,1,1,0,0,1.0,0.0051,0.0051,0.0051,Yes,Yes
+map04024,cAMP signaling pathway,1,1,1,0,0,1.0,0.0058,0.0058,0.0058,Yes,Yes
+map04062,Chemokine signaling pathway,1,1,1,0,0,1.0,0.0062,0.0062,0.0062,Yes,Yes
+map04068,FoxO signaling pathway,1,1,1,0,0,1.0,0.0097,0.0097,0.0097,Yes,Yes
+map04071,Sphingolipid signaling pathway,1,1,1,0,0,1.0,0.012,0.012,0.012,Yes,Yes
+map04072,Phospholipase D signaling pathway,1,1,1,0,0,1.0,0.0093,0.0093,0.0093,Yes,Yes
+map04075,Plant hormone signal transduction,1,1,1,0,0,1.0,0.0159,0.0159,0.0159,Yes,Yes
+map04081,Hormone signaling,1,1,1,0,0,1.0,0.0051,0.0051,0.0051,Yes,Yes
+map04115,p53 signaling pathway,1,1,1,0,0,1.0,0.0145,0.0145,0.0145,Yes,Yes
+map04137,Mitophagy - animal,1,1,1,0,0,1.0,0.0118,0.0118,0.0118,Yes,Yes
+map04138,Autophagy - yeast,1,1,1,0,0,1.0,0.0122,0.0122,0.0122,Yes,Yes
+map04144,Endocytosis,1,1,1,0,0,1.0,0.0059,0.0059,0.0059,Yes,Yes
+map04150,mTOR signaling pathway,1,1,1,0,0,1.0,0.0085,0.0085,0.0085,Yes,Yes
+map04210,Apoptosis,1,1,1,0,0,1.0,0.0089,0.0089,0.0089,Yes,Yes
+map04211,Longevity regulating pathway,1,1,1,0,0,1.0,0.0147,0.0147,0.0147,Yes,Yes
+map04214,Apoptosis - fly,1,1,1,0,0,1.0,0.0179,0.0179,0.0179,Yes,Yes
+map04215,Apoptosis - multiple species,1,1,1,0,0,1.0,0.025,0.025,0.025,Yes,Yes
+map04216,Ferroptosis,1,1,1,0,0,1.0,0.0303,0.0303,0.0303,Yes,Yes
+map04270,Vascular smooth muscle contraction,1,1,1,0,0,1.0,0.0104,0.0104,0.0104,Yes,Yes
+map04310,Wnt signaling pathway,1,1,1,0,0,1.0,0.0079,0.0079,0.0079,Yes,Yes
+map04350,TGF-beta signaling pathway,1,1,1,0,0,1.0,0.0102,0.0102,0.0102,Yes,Yes
+map04360,Axon guidance,1,1,1,0,0,1.0,0.0078,0.0078,0.0078,Yes,Yes
+map04382,Cornified envelope formation,1,1,1,0,0,1.0,0.0115,0.0115,0.0115,Yes,Yes
+map04510,Focal adhesion,1,1,1,0,0,1.0,0.0066,0.0066,0.0066,Yes,Yes
+map04520,Adherens junction,1,1,1,0,0,1.0,0.012,0.012,0.012,Yes,Yes
+map04530,Tight junction,1,1,1,0,0,1.0,0.0094,0.0094,0.0094,Yes,Yes
+map04611,Platelet activation,1,1,1,0,0,1.0,0.011,0.011,0.011,Yes,Yes
+map04613,Neutrophil extracellular trap formation,1,1,1,0,0,1.0,0.0111,0.0111,0.0111,Yes,Yes
+map04625,C-type lectin receptor signaling pathway,1,1,1,0,0,1.0,0.0122,0.0122,0.0122,Yes,Yes
+map04660,T cell receptor signaling pathway,1,1,1,0,0,1.0,0.0109,0.0109,0.0109,Yes,Yes
+map04670,Leukocyte transendothelial migration,1,1,1,0,0,1.0,0.0133,0.0133,0.0133,Yes,Yes
+map04722,Neurotrophin signaling pathway,1,1,1,0,0,1.0,0.0111,0.0111,0.0111,Yes,Yes
+map04810,Regulation of actin cytoskeleton,1,1,1,0,0,1.0,0.0058,0.0058,0.0058,Yes,Yes
+map04820,Cytoskeleton in muscle cells,1,1,1,0,0,1.0,0.0064,0.0064,0.0064,Yes,Yes
+map04916,Melanogenesis,1,1,1,0,0,1.0,0.0149,0.0149,0.0149,Yes,Yes
+map04918,Thyroid hormone synthesis,1,1,1,0,0,1.0,0.0189,0.0189,0.0189,Yes,Yes
+map04920,Adipocytokine signaling pathway,1,1,1,0,0,1.0,0.0185,0.0185,0.0185,Yes,Yes
+map04921,Oxytocin signaling pathway,1,1,1,0,0,1.0,0.0089,0.0089,0.0089,Yes,Yes
+map04928,"Parathyroid hormone synthesis, secretion and action",1,1,1,0,0,1.0,0.0112,0.0112,0.0112,Yes,Yes
+map04930,Type II diabetes mellitus,1,1,1,0,0,1.0,0.027,0.027,0.027,Yes,Yes
+map04934,Cushing syndrome,1,1,1,0,0,1.0,0.0082,0.0082,0.0082,Yes,Yes
+map04940,Type I diabetes mellitus,1,1,1,0,0,1.0,0.04,0.04,0.04,Yes,Yes
+map04972,Pancreatic secretion,1,1,1,0,0,1.0,0.0145,0.0145,0.0145,Yes,Yes
+map04975,Fat digestion and absorption,1,1,1,0,0,1.0,0.0357,0.0357,0.0357,Yes,Yes
+map05100,Bacterial invasion of epithelial cells,1,1,1,0,0,1.0,0.0132,0.0132,0.0132,Yes,Yes
+map05135,Yersinia infection,1,1,1,0,0,1.0,0.0082,0.0082,0.0082,Yes,Yes
+map05146,Amoebiasis,1,1,1,0,0,1.0,0.0115,0.0115,0.0115,Yes,Yes
+map05160,Hepatitis C,1,1,1,0,0,1.0,0.0089,0.0089,0.0089,Yes,Yes
+map05161,Hepatitis B,1,1,1,0,0,1.0,0.0076,0.0076,0.0076,Yes,Yes
+map05162,Measles,1,1,1,0,0,1.0,0.0085,0.0085,0.0085,Yes,Yes
+map05164,Influenza A,1,1,1,0,0,1.0,0.0078,0.0078,0.0078,Yes,Yes
+map05165,Human papillomavirus infection,1,1,1,0,0,1.0,0.0043,0.0043,0.0043,Yes,Yes
+map05167,Kaposi sarcoma-associated herpesvirus infection,1,1,1,0,0,1.0,0.0059,0.0059,0.0059,Yes,Yes
+map05168,Herpes simplex virus 1 infection,1,1,1,0,0,1.0,0.0067,0.0067,0.0067,Yes,Yes
+map05169,Epstein-Barr virus infection,1,1,1,0,0,1.0,0.0058,0.0058,0.0058,Yes,Yes
+map05170,Human immunodeficiency virus 1 infection,1,1,1,0,0,1.0,0.0061,0.0061,0.0061,Yes,Yes
+map05204,Chemical carcinogenesis - DNA adducts,1,1,1,0,0,1.0,0.0345,0.0345,0.0345,Yes,Yes
+map05207,Chemical carcinogenesis - receptor activation,1,1,1,0,0,1.0,0.0079,0.0079,0.0079,Yes,Yes
+map05211,Renal cell carcinoma,1,1,1,0,0,1.0,0.0179,0.0179,0.0179,Yes,Yes
+map05219,Bladder cancer,1,1,1,0,0,1.0,0.0263,0.0263,0.0263,Yes,Yes
+map05222,Small cell lung cancer,1,1,1,0,0,1.0,0.0135,0.0135,0.0135,Yes,Yes
+map05225,Hepatocellular carcinoma,1,1,1,0,0,1.0,0.0086,0.0086,0.0086,Yes,Yes
+map05416,Viral myocarditis,1,1,1,0,0,1.0,0.0213,0.0213,0.0213,Yes,Yes
+map01055,Biosynthesis of vancomycin group antibiotics,2,1,1,1,0,0.5,0.069,0.0345,0.0345,Yes,Yes
+map03450,Non-homologous end-joining,2,1,1,1,0,0.5,0.1053,0.0526,0.0526,Yes,Yes
+map04726,Serotonergic synapse,2,1,1,1,0,0.5,0.0235,0.0118,0.0118,Yes,Yes
+map04728,Dopaminergic synapse,2,1,1,1,0,0.5,0.0238,0.0119,0.0119,Yes,Yes
+map05030,Cocaine addiction,2,1,1,1,0,0.5,0.0513,0.0256,0.0256,Yes,Yes
+map05031,Amphetamine addiction,2,1,1,1,0,0.5,0.0435,0.0217,0.0217,Yes,Yes
+map05034,Alcoholism,2,1,1,1,0,0.5,0.0233,0.0116,0.0116,Yes,Yes
+map00621,Dioxin degradation,5,1,1,4,0,0.2,0.1613,0.0323,0.0323,Yes,Yes
+map00622,Xylene degradation,9,1,1,8,0,0.1111,0.2647,0.0294,0.0294,Yes,Yes
+map00404,Staurosporine biosynthesis,1,0,0,1,0,0.0,0.025,0.0,0.0,No,No
+map00571,Lipoarabinomannan (LAM) biosynthesis,0,1,0,0,1,0.0,0.0,0.0714,0.0,No,No
