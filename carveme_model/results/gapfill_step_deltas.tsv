@@ -1,0 +1,31 @@
+step	change	rxn_id	name	subsystem	gpr
+mbm_glc__D	added	EX_4hptn_e	EX_4hptn_e		
+mbm_glc__D	added	EX_fol_e	EX_fol_e		
+mbm_glc__D	added	EX_ncam_e	EX_ncam_e		
+mbm_glc__D	added	EX_ribflv_e	EX_ribflv_e		
+mbm_glc__D	added	4HBADH	4 hydroxy benzyl alcohol dehydrogenase		
+mbm_glc__D	added	4HPTNCOAL	4 Hydroxypentanoate CoA ligase		
+mbm_glc__D	added	4HPTNtex	4 Hydroxypentanoate transport via diffusion		
+mbm_glc__D	added	4HPTNtpp	4 Hydroxypentanoate transport via Na symport		
+mbm_glc__D	added	5HBZIDMT	5-hydroxybenzimidazole methyltransferase		
+mbm_glc__D	added	5HBZIDS2	5-hydroxybenzimidazole synthase		
+mbm_glc__D	added	AHMMPS	4 amino 5 hydroxymethyl 2 methylpyrimidine synthetase		
+mbm_glc__D	added	ASNS2	Asparagine synthetase		
+mbm_glc__D	added	BARB	MNXR70450		
+mbm_glc__D	added	BZDH	Benzaldehyde dehydrogenase		
+mbm_glc__D	added	CHRPL	Chorismate pyruvate lyase		
+mbm_glc__D	added	DMBI	MNXR18583		
+mbm_glc__D	added	HETZK	Hydroxyethylthiazole kinase		
+mbm_glc__D	added	NCAMUP	Nicotinamide acid uptake		
+mbm_glc__D	added	PHPYROX	Phenylpyruvate oxidation chemical		
+mbm_glc__D	added	PPPGO2	Protoporphyrinogen oxidase (anaerobic, menaquinone)		
+mbm_glc__D	added	RIBFLVt2	Riboflavin transport in via proton symport		
+mbm_glc__D	added	THFOR1	5,6,7,8-Tetrahydrofolate:NAD+ oxidoreductase		
+mbm_glc__D	added	THZPSN_1	Thiazole phosphate synthesis		
+mbm_glc__D	added	TMN	Thiaminase		
+mbm_glc__D	added	UDCPPtexi	Undecaprenyl phosphate transport (external to cytoplasm)		
+mbm_glc__D	added	VNDH_2	4-hydroxybenzaldehyde dehydrogenase		
+mbm_glc__D	added	r0963	Facilitated diffusion		
+ATCC_lac_D	added	EX_lac__D_e	EX_lac__D_e		
+ATCC_lac_D	added	D_LACt2	D lactate transport via proton symport		
+ATCC_lac_D	added	GLXO3r	Glyoxylate dehydrogenase		
